@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaikwadatul309&label=Profile%20views&color=0e75b6&style=flat" alt="gaikwadatul309" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaikwadatul309" alt="gaikwadatul309" /></a> </p>
-
 - 📫 How to reach me **gaikwadatul3552@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/atul-gaikwad-038390169/](https://www.linkedin.com/in/atul-gaikwad-038390169/)
